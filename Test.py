@@ -2,7 +2,7 @@ a = 2020
 b = 81
 
 if a > b :
-    print("Ameer is strong")
+    print("Hulk is strong")
 
 else:
-    print("Ameer is Weak")
+    print("Hulk is Weak")
